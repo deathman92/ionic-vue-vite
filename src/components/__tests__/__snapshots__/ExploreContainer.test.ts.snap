@@ -1,0 +1,9 @@
+// Vitest Snapshot v1
+
+exports[`ExploreContainer > matches snapshot 1`] = `
+<ion-card class="ion-text-center ion-padding">
+  <ion-title class>Test Name</ion-title>
+  <p> Explore <a href="https://ionicframework.com/docs/components" rel="noopener noreferrer" target="_blank"> UI Components </a>
+  </p>
+</ion-card>
+`;
